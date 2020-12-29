@@ -1,0 +1,44 @@
+/* 
+  Localizable.strings
+  SignatureMaids
+
+  Created by admin on 22/12/20.
+  Copyright © 2020 admin. All rights reserved.
+*/
+"smMessage" = "SignatureMaids!";
+"smAttention" = "Attention!";
+"smSuccess" = "Success!";
+"smSuccessUper" = "SUCCESS!";
+"smFailed" = "Failed!";
+"smStatus" = "Status!";
+"smUpdate" = "Update!";
+"smQuestion" = "Question?";
+"smOk" = "OK";
+"smYes" = "YES";
+"smNo" = "NO";
+"smCancel" = "CANCEL";
+"smEmpty"  = "";
+"warning" = "Warning";
+/***************** Sign-In Screen ************/
+"smNoNetwork" = "There is no active internet connection.";
+"smCommentBlank" = "Comment could not be blank.";
+/***************** Sign-In Screen ************/
+
+
+/***************** Sign-UP Screen ************/
+"smEnterEmail" = "Please enter email.";
+"smEnterFirstName" = "Please enter first name.";
+"smEmailExist" = "User Email ID Exist.";
+"smEmailAlreadyExist" = "User email id already exist.";
+"smEmailNotExist" = "User email id not exist.";
+"smPassword" = "User email id not exist.";
+"kEnterEmail" = "Please enter email.";
+"kEnterFirstName" = "Please enter first name.";
+"kEmailExist" = "User Email ID Exist.";
+"kEmailAlreadyExist" = "User email id already exist.";
+"kEmailNotExist" = "User email id not exist.";
+"kEnterLastName" = "Please enter last name.";
+"kEnterPhone" = "Please enter phone number.";
+"kEnterPassWord" = "Please enter password.";
+"kPleaseEnterValidEmail" = "Please enter valid email address";
+"kPleaseAtLeastPassword" = "Password should be at least 8 digits.";
